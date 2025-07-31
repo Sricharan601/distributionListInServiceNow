@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_boolean_16" label="Accept Emails from External Environment" language="en" table="x_1645406_distribu_distribution_list_request">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_boolean_16</element>
+            <help/>
+            <hint/>
+            <label>Accept Emails from External Environment</label>
+            <language>en</language>
+            <name>x_1645406_distribu_distribution_list_request</name>
+            <plural>Accept Emails from External Environments</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-07-31 10:29:44</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Accept Emails from External Environment</sys_name>
+            <sys_package display_value="Distribution List" source="x_1645406_distribu">97ce3c4683c32210671b33d6feaad36f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Distribution List">97ce3c4683c32210671b33d6feaad36f</sys_scope>
+            <sys_update_name>sys_documentation_x_1645406_distribu_distribution_list_request_u_boolean_16_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-07-31 10:29:44</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
