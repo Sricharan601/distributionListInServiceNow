@@ -3,7 +3,7 @@
         <element attributes="encode_utf8=false" label="Distribution list owners" max_length="32" name="u_reference_5" reference="sc_cat_item_app_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" dependent="u_string_3" dependent_on_field="u_string_3" label="Display Name of distribution list" max_length="40" name="u_string_7" read_only="true" type="string" use_dependent_field="true"/>
         <element attributes="edge_encryption_enabled=true" label="Name of the distribution list" max_length="100" name="u_string_3" type="string"/>
-        <element attributes="encode_utf8=false" label="Modify a distribution list" max_length="32" name="u_reference_9" reference="cmdb_ci_appl_dot_net" type="reference"/>
+        <element attributes="encode_utf8=false" label="Modify a distribution list" max_length="32" name="u_reference_9" reference="cmdb_ci_hardware" type="reference"/>
         <element label="RequestorFQN" max_length="40" name="requestorfqn" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Expiration date" max_length="40" name="u_glide_date_time_8" read_only="true" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true" label="Description of distribution list" max_length="200" name="u_string_4" type="string"/>

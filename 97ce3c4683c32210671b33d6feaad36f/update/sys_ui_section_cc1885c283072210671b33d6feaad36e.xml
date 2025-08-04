@@ -3,22 +3,22 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-01 07:09:12</sys_created_on>
-            <sys_id>23b5a19e83032210671b33d6feaad341</sys_id>
+            <sys_created_on>2025-08-04 10:57:11</sys_created_on>
+            <sys_id>10b63d9383c76610671b33d6feaad38b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-01 07:09:12</sys_updated_on>
+            <sys_updated_on>2025-08-04 10:57:11</sys_updated_on>
             <text>Requiring approval for an email before it's delivered to the group.</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-01 07:09:12</sys_created_on>
-            <sys_id>6fb5a19e83032210671b33d6feaad340</sys_id>
+            <sys_created_on>2025-08-04 10:57:11</sys_created_on>
+            <sys_id>5cb63d9383c76610671b33d6feaad38a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-01 07:09:12</sys_updated_on>
+            <sys_updated_on>2025-08-04 10:57:11</sys_updated_on>
             <text>The users specified here can send emails to the group. Emails from others will be rejected.
 If the field is blank, all users can send emails to the group.</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
@@ -26,11 +26,11 @@ If the field is blank, all users can send emails to the group.</text>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-01 07:09:12</sys_created_on>
-            <sys_id>a7b5a19e83032210671b33d6feaad341</sys_id>
+            <sys_created_on>2025-08-04 10:57:11</sys_created_on>
+            <sys_id>94b63d9383c76610671b33d6feaad38b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-01 07:09:12</sys_updated_on>
+            <sys_updated_on>2025-08-04 10:57:11</sys_updated_on>
             <text>This segment pertains solely to the present Distribution group and does not extend to nested groups or sub-groups.
 Please implement any necessary changes to subgroups.</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
@@ -38,11 +38,11 @@ Please implement any necessary changes to subgroups.</text>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-01 07:09:12</sys_created_on>
-            <sys_id>e3b5a19e83032210671b33d6feaad341</sys_id>
+            <sys_created_on>2025-08-04 10:57:11</sys_created_on>
+            <sys_id>d0b63d9383c76610671b33d6feaad38b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-01 07:09:12</sys_updated_on>
+            <sys_updated_on>2025-08-04 10:57:11</sys_updated_on>
             <text>Emails to be approved by (Messages sent to this group have to be approved by a moderator.)
 
 Bypass approval( Senders who do not require a approval need to be added here)</text>
@@ -52,13 +52,13 @@ Bypass approval( Senders who do not require a approval need to be added here)</t
             <element>u_reference_10</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-01 07:09:12</sys_created_on>
-            <sys_id>ebb5a19e83032210671b33d6feaad34b</sys_id>
+            <sys_created_on>2025-08-04 10:57:11</sys_created_on>
+            <sys_id>d8b63d9383c76610671b33d6feaad3a2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-01 07:09:12</sys_updated_on>
+            <sys_updated_on>2025-08-04 10:57:11</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -66,27 +66,27 @@ Bypass approval( Senders who do not require a approval need to be added here)</t
             <element>.split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-01 07:09:12</sys_created_on>
-            <sys_id>63b5a19e83032210671b33d6feaad34c</sys_id>
+            <sys_created_on>2025-08-04 10:57:11</sys_created_on>
+            <sys_id>50b63d9383c76610671b33d6feaad3a3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-01 07:09:12</sys_updated_on>
+            <sys_updated_on>2025-08-04 10:57:11</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>6fb5a19e83032210671b33d6feaad340</element>
+            <element>5cb63d9383c76610671b33d6feaad38a</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-01 07:09:13</sys_created_on>
-            <sys_id>e7b5a19e83032210671b33d6feaad34c</sys_id>
+            <sys_created_on>2025-08-04 10:57:11</sys_created_on>
+            <sys_id>d4b63d9383c76610671b33d6feaad3a3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-01 07:09:13</sys_updated_on>
+            <sys_updated_on>2025-08-04 10:57:11</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -94,13 +94,13 @@ Bypass approval( Senders who do not require a approval need to be added here)</t
             <element>.end_split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-01 07:09:13</sys_created_on>
-            <sys_id>6fb5a19e83032210671b33d6feaad34c</sys_id>
+            <sys_created_on>2025-08-04 10:57:11</sys_created_on>
+            <sys_id>5cb63d9383c76610671b33d6feaad3a3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-01 07:09:13</sys_updated_on>
+            <sys_updated_on>2025-08-04 10:57:11</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -108,13 +108,13 @@ Bypass approval( Senders who do not require a approval need to be added here)</t
             <element>.begin_split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-01 07:09:13</sys_created_on>
-            <sys_id>e3b5a19e83032210671b33d6feaad34d</sys_id>
+            <sys_created_on>2025-08-04 10:57:11</sys_created_on>
+            <sys_id>d0b63d9383c76610671b33d6feaad3a4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-01 07:09:13</sys_updated_on>
+            <sys_updated_on>2025-08-04 10:57:11</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -122,13 +122,13 @@ Bypass approval( Senders who do not require a approval need to be added here)</t
             <element>u_boolean_12</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-01 07:09:13</sys_created_on>
-            <sys_id>6bb5a19e83032210671b33d6feaad34d</sys_id>
+            <sys_created_on>2025-08-04 10:57:11</sys_created_on>
+            <sys_id>58b63d9383c76610671b33d6feaad3a4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-01 07:09:13</sys_updated_on>
+            <sys_updated_on>2025-08-04 10:57:11</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -136,27 +136,27 @@ Bypass approval( Senders who do not require a approval need to be added here)</t
             <element>.split</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-01 07:09:13</sys_created_on>
-            <sys_id>6fb5a19e83032210671b33d6feaad366</sys_id>
+            <sys_created_on>2025-08-04 10:57:11</sys_created_on>
+            <sys_id>dcb63d9383c76610671b33d6feaad3a4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-01 07:09:13</sys_updated_on>
+            <sys_updated_on>2025-08-04 10:57:11</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>23b5a19e83032210671b33d6feaad341</element>
+            <element>10b63d9383c76610671b33d6feaad38b</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-01 07:09:13</sys_created_on>
-            <sys_id>e3b5a19e83032210671b33d6feaad367</sys_id>
+            <sys_created_on>2025-08-04 10:57:11</sys_created_on>
+            <sys_id>54b63d9383c76610671b33d6feaad3a5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-01 07:09:13</sys_updated_on>
+            <sys_updated_on>2025-08-04 10:57:11</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -164,13 +164,13 @@ Bypass approval( Senders who do not require a approval need to be added here)</t
             <element>.end_split</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-01 07:09:13</sys_created_on>
-            <sys_id>6bb5a19e83032210671b33d6feaad367</sys_id>
+            <sys_created_on>2025-08-04 10:57:11</sys_created_on>
+            <sys_id>d8b63d9383c76610671b33d6feaad3a5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-01 07:09:13</sys_updated_on>
+            <sys_updated_on>2025-08-04 10:57:11</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -178,13 +178,13 @@ Bypass approval( Senders who do not require a approval need to be added here)</t
             <element>.begin_split</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-01 07:09:13</sys_created_on>
-            <sys_id>efb5a19e83032210671b33d6feaad367</sys_id>
+            <sys_created_on>2025-08-04 10:57:11</sys_created_on>
+            <sys_id>50b63d9383c76610671b33d6feaad3a6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-01 07:09:13</sys_updated_on>
+            <sys_updated_on>2025-08-04 10:57:11</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -192,13 +192,13 @@ Bypass approval( Senders who do not require a approval need to be added here)</t
             <element>u_reference_14</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-01 07:09:13</sys_created_on>
-            <sys_id>67b5a19e83032210671b33d6feaad368</sys_id>
+            <sys_created_on>2025-08-04 10:57:11</sys_created_on>
+            <sys_id>d4b63d9383c76610671b33d6feaad3a6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-01 07:09:13</sys_updated_on>
+            <sys_updated_on>2025-08-04 10:57:11</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -206,13 +206,13 @@ Bypass approval( Senders who do not require a approval need to be added here)</t
             <element>u_reference_15</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-01 07:09:13</sys_created_on>
-            <sys_id>ebb5a19e83032210671b33d6feaad368</sys_id>
+            <sys_created_on>2025-08-04 10:57:11</sys_created_on>
+            <sys_id>5cb63d9383c76610671b33d6feaad3a6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-01 07:09:13</sys_updated_on>
+            <sys_updated_on>2025-08-04 10:57:11</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -220,27 +220,27 @@ Bypass approval( Senders who do not require a approval need to be added here)</t
             <element>.split</element>
             <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-01 07:09:13</sys_created_on>
-            <sys_id>63b5a19e83032210671b33d6feaad369</sys_id>
+            <sys_created_on>2025-08-04 10:57:11</sys_created_on>
+            <sys_id>d0b63d9383c76610671b33d6feaad3a7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-01 07:09:13</sys_updated_on>
+            <sys_updated_on>2025-08-04 10:57:11</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>e3b5a19e83032210671b33d6feaad341</element>
+            <element>d0b63d9383c76610671b33d6feaad38b</element>
             <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-01 07:09:13</sys_created_on>
-            <sys_id>e7b5a19e83032210671b33d6feaad369</sys_id>
+            <sys_created_on>2025-08-04 10:57:11</sys_created_on>
+            <sys_id>58b63d9383c76610671b33d6feaad3a7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-01 07:09:13</sys_updated_on>
+            <sys_updated_on>2025-08-04 10:57:11</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -248,13 +248,13 @@ Bypass approval( Senders who do not require a approval need to be added here)</t
             <element>.end_split</element>
             <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-01 07:09:13</sys_created_on>
-            <sys_id>6fb5a19e83032210671b33d6feaad369</sys_id>
+            <sys_created_on>2025-08-04 10:57:11</sys_created_on>
+            <sys_id>dcb63d9383c76610671b33d6feaad3a7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-01 07:09:13</sys_updated_on>
+            <sys_updated_on>2025-08-04 10:57:11</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -262,13 +262,13 @@ Bypass approval( Senders who do not require a approval need to be added here)</t
             <element>.begin_split</element>
             <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-01 07:09:13</sys_created_on>
-            <sys_id>e3b5a19e83032210671b33d6feaad36a</sys_id>
+            <sys_created_on>2025-08-04 10:57:11</sys_created_on>
+            <sys_id>54b63d9383c76610671b33d6feaad3a8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-01 07:09:13</sys_updated_on>
+            <sys_updated_on>2025-08-04 10:57:11</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -276,13 +276,13 @@ Bypass approval( Senders who do not require a approval need to be added here)</t
             <element>u_boolean_16</element>
             <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-01 07:09:13</sys_created_on>
-            <sys_id>6bb5a19e83032210671b33d6feaad36a</sys_id>
+            <sys_created_on>2025-08-04 10:57:11</sys_created_on>
+            <sys_id>d8b63d9383c76610671b33d6feaad3a8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-01 07:09:13</sys_updated_on>
+            <sys_updated_on>2025-08-04 10:57:11</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -290,27 +290,27 @@ Bypass approval( Senders who do not require a approval need to be added here)</t
             <element>.split</element>
             <position>17</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-01 07:09:13</sys_created_on>
-            <sys_id>efb5a19e83032210671b33d6feaad36a</sys_id>
+            <sys_created_on>2025-08-04 10:57:11</sys_created_on>
+            <sys_id>50b63d9383c76610671b33d6feaad3a9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-01 07:09:13</sys_updated_on>
+            <sys_updated_on>2025-08-04 10:57:11</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>a7b5a19e83032210671b33d6feaad341</element>
+            <element>94b63d9383c76610671b33d6feaad38b</element>
             <position>18</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-01 07:09:13</sys_created_on>
-            <sys_id>67b5a19e83032210671b33d6feaad36b</sys_id>
+            <sys_created_on>2025-08-04 10:57:11</sys_created_on>
+            <sys_id>d4b63d9383c76610671b33d6feaad3a9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-01 07:09:13</sys_updated_on>
+            <sys_updated_on>2025-08-04 10:57:11</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
