@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f53286eb83cba610671b33d6feaad3fc" label="Request Base" max_length="40" name="x_1645406_distribu_request_base" type="collection">
+        <element label="Request Date Time" max_length="40" name="request_date_time" type="glide_date_time"/>
+        <element label="Process Type ID" max_length="50" name="process_type_id" type="integer"/>
+        <element label="Target User Group CSV" max_length="40" name="target_user_group_csv" type="string"/>
+        <element label="Originator User ID" max_length="40" name="originator_user_id" type="string"/>
+        <element label="Originator Display Name" max_length="40" name="originator_display_name" type="string"/>
+        <element label="Process Instance ID" max_length="40" name="process_instance_id" type="integer"/>
+        <element label="Request Status" max_length="40" name="request_status" type="integer"/>
+        <element label="Originator MUID" max_length="40" name="originator_muid" type="string"/>
+        <element label="Provisioned Date Time" max_length="40" name="provisioned_date_time" type="glide_date_time"/>
+        <element label="On Behalf Of" max_length="40" name="on_behalf_of" type="string"/>
+        <element label="Target User Option" max_length="40" name="target_user_option" type="integer"/>
+        <element label="AD group APP Id" max_length="40" name="ad_group_app_id" type="integer"/>
+        <element label="Originator" max_length="40" name="originator" type="string"/>
+        <element label="Request Batch ID" max_length="40" name="request_batch_id" type="integer"/>
+        <element label="Stopped Date Time" max_length="40" name="stopped_date_time" type="glide_date_time"/>
+        <element label="Activity Name" max_length="40" name="activity_name" type="integer"/>
+        <element label="Read Only URL" max_length="40" name="read_only_url" type="string"/>
+        <element label="Originator FQN" max_length="40" name="originator_fqn" type="string"/>
+        <element label="Target User Group GUS Key" max_length="40" name="target_user_group_gus_key" type="string"/>
+        <element label="Process Name" max_length="40" name="process_name" type="string"/>
+        <element label="Status Title" max_length="40" name="status_title" type="string"/>
+        <element label="Is On Behalf Of" max_length="40" name="is_on_behalf_of" type="boolean"/>
+        <element label="Record GUID" max_length="40" name="record_guid" type="integer"/>
+        <element label="On Behalf of User ID" max_length="40" name="on_behalf_of_user_id" type="string"/>
+        <element label="On Behalf of MUID" max_length="40" name="on_behalf_of_muid" type="string"/>
+        <element label="On Behalf Of FQN" max_length="40" name="on_behalf_of_fqn" type="string"/>
+        <element label="On Behalf Of Display Name" max_length="40" name="on_behalf_of_display_name" type="string"/>
+        <element label="Approved Date Time" max_length="40" name="approved_date_time" type="glide_date_time"/>
+        <element label="Additional CC Mail Address" max_length="40" name="additional_cc_mail_address" type="string"/>
+        <element label="Request ID" max_length="40" name="request_id" type="integer"/>
+        <element label="Folio" max_length="40" name="folio" type="string"/>
+    </element>
+</database>

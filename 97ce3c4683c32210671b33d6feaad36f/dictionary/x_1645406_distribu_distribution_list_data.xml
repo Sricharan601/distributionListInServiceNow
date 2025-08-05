@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2747222f838fa610671b33d6feaad31b" label="Distribution List Data" max_length="40" name="x_1645406_distribu_distribution_list_data" type="collection">
+        <element label="Last certification date" max_length="40" name="last_certification_date" type="glide_date"/>
+        <element label="Display Name for mailing purposes" max_length="40" name="display_name_for_mailing_purposes" type="string"/>
+        <element label="Distribution List Name" max_length="40" name="distribution_list_name" type="string"/>
+        <element label="Entry Creator ID" max_length="40" name="entry_creator_id" type="string"/>
+        <element label="Legal Entity" max_length="40" name="legal_entity" type="string"/>
+        <element label="Distribution list group type" max_length="40" name="distribution_list_group_type" type="string"/>
+        <element label="Distribution list members" max_length="40" name="distribution_list_members" type="string"/>
+        <element label="Distribution list info text" max_length="40" name="distribution_list_info_text" type="string"/>
+        <element label="Expiration Date of distribution list" max_length="40" name="expiration_date_of_distribution_list" type="glide_date"/>
+        <element label="Secondary mail address" max_length="40" name="secondary_mail_address" type="string"/>
+        <element label="Mail" max_length="40" name="mail" type="string"/>
+        <element label="Distribution list owners" max_length="40" name="distribution_list_owners" type="string"/>
+        <element label="Distribution list ID" max_length="40" name="distribution_list_id" type="string"/>
+    </element>
+</database>
