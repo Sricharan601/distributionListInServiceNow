@@ -6,7 +6,7 @@
         <element attributes="encode_utf8=false" label="Modify a distribution list" max_length="32" name="u_reference_9" reference="x_1645406_distribu_distribution_list_data" type="reference"/>
         <element label="RequestorFQN" max_length="40" name="requestorfqn" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Expiration date" max_length="40" name="u_glide_date_time_8" read_only="true" type="glide_date_time"/>
-        <element attributes="edge_encryption_enabled=true" label="Description of distribution list" max_length="200" name="u_string_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description of distribution list" max_length="1000" name="u_string_4" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="DistributionListType" max_length="40" name="u_choice_1" type="string">
             <choice>
                 <element inactive_on_update="false" label="Local" sequence="0" value="local"/>

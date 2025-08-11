@@ -3,11 +3,11 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-05 09:27:43</sys_created_on>
-            <sys_id>27cb2e6383cfa610671b33d6feaad3ba</sys_id>
+            <sys_created_on>2025-08-06 10:25:38</sys_created_on>
+            <sys_id>6da2c048835b2a10671b33d6feaad339</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-05 09:27:43</sys_updated_on>
+            <sys_updated_on>2025-08-06 10:25:38</sys_updated_on>
             <text>Please confirm that you want to delete the distribution list 
 
  
@@ -20,13 +20,13 @@ The Distribution List deletion workflow is currently experiencing issues, as it 
             <element>u_reference_18</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-05 09:27:43</sys_created_on>
-            <sys_id>a3cb2e6383cfa610671b33d6feaad3be</sys_id>
+            <sys_created_on>2025-08-06 10:25:38</sys_created_on>
+            <sys_id>a1a2c048835b2a10671b33d6feaad33d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Delete a distribution list" display_value="Delete a distribution list" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">fc2fc50e83072210671b33d6feaad349</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-05 09:27:43</sys_updated_on>
+            <sys_updated_on>2025-08-06 10:25:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -34,13 +34,13 @@ The Distribution List deletion workflow is currently experiencing issues, as it 
             <element>u_boolean_19</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-05 09:27:43</sys_created_on>
-            <sys_id>2bcb2e6383cfa610671b33d6feaad3be</sys_id>
+            <sys_created_on>2025-08-06 10:25:38</sys_created_on>
+            <sys_id>29a2c048835b2a10671b33d6feaad33d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Delete a distribution list" display_value="Delete a distribution list" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">fc2fc50e83072210671b33d6feaad349</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-05 09:27:43</sys_updated_on>
+            <sys_updated_on>2025-08-06 10:25:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -48,27 +48,27 @@ The Distribution List deletion workflow is currently experiencing issues, as it 
             <element>.split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-05 09:27:43</sys_created_on>
-            <sys_id>afcb2e6383cfa610671b33d6feaad3be</sys_id>
+            <sys_created_on>2025-08-06 10:25:38</sys_created_on>
+            <sys_id>bda2c048835b2a10671b33d6feaad33d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Delete a distribution list" display_value="Delete a distribution list" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">fc2fc50e83072210671b33d6feaad349</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-05 09:27:43</sys_updated_on>
+            <sys_updated_on>2025-08-06 10:25:38</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>27cb2e6383cfa610671b33d6feaad3ba</element>
+            <element>6da2c048835b2a10671b33d6feaad339</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-05 09:27:43</sys_created_on>
-            <sys_id>27cb2e6383cfa610671b33d6feaad3bf</sys_id>
+            <sys_created_on>2025-08-06 10:25:38</sys_created_on>
+            <sys_id>35a2c048835b2a10671b33d6feaad33e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Delete a distribution list" display_value="Delete a distribution list" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">fc2fc50e83072210671b33d6feaad349</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-05 09:27:43</sys_updated_on>
+            <sys_updated_on>2025-08-06 10:25:38</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>

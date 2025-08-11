@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="Testing ">7e980d2183572250671b33d6feaad360</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-11 07:24:44</sys_created_on>
+        <sys_id>ce29c1a983572250671b33d6feaad3b5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Choice 1</sys_name>
+        <sys_package display_value="Distribution List" source="x_1645406_distribu">97ce3c4683c32210671b33d6feaad36f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Distribution List">97ce3c4683c32210671b33d6feaad36f</sys_scope>
+        <sys_update_name>question_choice_ce29c1a983572250671b33d6feaad3b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-11 07:24:53</sys_updated_on>
+        <text>Choice 1</text>
+        <value>C1</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=ce29c1a983572250671b33d6feaad3b5"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Distribution List">97ce3c4683c32210671b33d6feaad36f</application>
+        <file_path/>
+        <instance_id>4b57aae11b8242d078c7cb7b234bcb99</instance_id>
+        <instance_name>dev266350</instance_name>
+        <name>question_choice_ce29c1a983572250671b33d6feaad3b5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>100</order><published_ref/><question display_value="Testing ">7e980d2183572250671b33d6feaad360</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-11 07:24:44</sys_created_on><sys_id>ce29c1a983572250671b33d6feaad3b5</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Choice 1</sys_name><sys_package display_value="Distribution List" source="x_1645406_distribu">97ce3c4683c32210671b33d6feaad36f</sys_package><sys_policy/><sys_scope display_value="Distribution List">97ce3c4683c32210671b33d6feaad36f</sys_scope><sys_update_name>question_choice_ce29c1a983572250671b33d6feaad3b5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-11 07:24:53</sys_updated_on><text>Choice 1</text><value>C1</value></question_choice><fx_price action="delete_multiple" query="id=ce29c1a983572250671b33d6feaad3b5"/></record_update>]]></payload>
+        <payload_hash>-1561559024</payload_hash>
+        <record_name>Choice 1</record_name>
+        <reverted_from/>
+        <source>0769dd0a83472210671b33d6feaad3b5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-11 07:24:53</sys_created_on>
+        <sys_id>fe39c9a983572250671b33d6feaad33c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198980494480000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-11 07:24:53</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>7639c9a930572250d04281fc357c7f3c</update_guid>
+        <update_guid_history>7639c9a930572250d04281fc357c7f3c:-1561559024,ec3989a94f572250035ca365cda6829a:1631160397</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Choice 1">4fcb1d6183d72250671b33d6feaad36a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-11 08:46:01</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>17d76b1265ad413293bf11c4e1761904</sys_id>
+        <sys_metadata>ce29c1a983572250671b33d6feaad3b5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Choice 1</sys_name>
+        <sys_package display_value="Distribution List" source="x_1645406_distribu">97ce3c4683c32210671b33d6feaad36f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Distribution List">97ce3c4683c32210671b33d6feaad36f</sys_scope>
+        <sys_scope_delete display_value="">008b790ab778493580d9ac1fb71d5831</sys_scope_delete>
+        <sys_update_name>question_choice_ce29c1a983572250671b33d6feaad3b5</sys_update_name>
+        <sys_update_version display_value="question_choice_ce29c1a983572250671b33d6feaad3b5">fe39c9a983572250671b33d6feaad33c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-11 08:46:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

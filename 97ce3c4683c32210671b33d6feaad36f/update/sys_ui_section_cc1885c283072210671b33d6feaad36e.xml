@@ -3,11 +3,23 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-05 09:27:42</sys_created_on>
-            <sys_id>1bcb2e6383cfa610671b33d6feaad390</sys_id>
+            <sys_created_on>2025-08-06 10:25:38</sys_created_on>
+            <sys_id>29a2c048835b2a10671b33d6feaad322</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-05 09:27:42</sys_updated_on>
+            <sys_updated_on>2025-08-06 10:25:38</sys_updated_on>
+            <text>This segment pertains solely to the present Distribution group and does not extend to nested groups or sub-groups.
+Please implement any necessary changes to subgroups.</text>
+            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
+        </sys_ui_annotation>
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-08-06 10:25:38</sys_created_on>
+            <sys_id>65a2c048835b2a10671b33d6feaad322</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-08-06 10:25:38</sys_updated_on>
             <text>Emails to be approved by (Messages sent to this group have to be approved by a moderator.)
 
 Bypass approval( Senders who do not require a approval need to be added here)</text>
@@ -16,49 +28,37 @@ Bypass approval( Senders who do not require a approval need to be added here)</t
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-05 09:27:42</sys_created_on>
-            <sys_id>57cb2e6383cfa610671b33d6feaad390</sys_id>
+            <sys_created_on>2025-08-06 10:25:38</sys_created_on>
+            <sys_id>a1a2c048835b2a10671b33d6feaad322</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-05 09:27:42</sys_updated_on>
+            <sys_updated_on>2025-08-06 10:25:38</sys_updated_on>
             <text>Requiring approval for an email before it's delivered to the group.</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-05 09:27:42</sys_created_on>
-            <sys_id>93cb2e6383cfa610671b33d6feaad390</sys_id>
+            <sys_created_on>2025-08-06 10:25:38</sys_created_on>
+            <sys_id>eda2c048835b2a10671b33d6feaad321</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-05 09:27:42</sys_updated_on>
+            <sys_updated_on>2025-08-06 10:25:38</sys_updated_on>
             <text>The users specified here can send emails to the group. Emails from others will be rejected.
 If the field is blank, all users can send emails to the group.</text>
-            <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
-        </sys_ui_annotation>
-        <sys_ui_annotation action="INSERT_OR_UPDATE">
-            <is_plain_text>false</is_plain_text>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-05 09:27:42</sys_created_on>
-            <sys_id>dbcb2e6383cfa610671b33d6feaad390</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-05 09:27:42</sys_updated_on>
-            <text>This segment pertains solely to the present Distribution group and does not extend to nested groups or sub-groups.
-Please implement any necessary changes to subgroups.</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
         </sys_ui_annotation>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_reference_10</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-05 09:27:43</sys_created_on>
-            <sys_id>6bcb2e6383cfa610671b33d6feaad39b</sys_id>
+            <sys_created_on>2025-08-06 10:25:38</sys_created_on>
+            <sys_id>a5a2c048835b2a10671b33d6feaad32d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-05 09:27:43</sys_updated_on>
+            <sys_updated_on>2025-08-06 10:25:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -66,27 +66,27 @@ Please implement any necessary changes to subgroups.</text>
             <element>.split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-05 09:27:43</sys_created_on>
-            <sys_id>efcb2e6383cfa610671b33d6feaad39b</sys_id>
+            <sys_created_on>2025-08-06 10:25:38</sys_created_on>
+            <sys_id>2da2c048835b2a10671b33d6feaad32d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-05 09:27:43</sys_updated_on>
+            <sys_updated_on>2025-08-06 10:25:38</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>93cb2e6383cfa610671b33d6feaad390</element>
+            <element>eda2c048835b2a10671b33d6feaad321</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-05 09:27:43</sys_created_on>
-            <sys_id>67cb2e6383cfa610671b33d6feaad39c</sys_id>
+            <sys_created_on>2025-08-06 10:25:38</sys_created_on>
+            <sys_id>a1a2c048835b2a10671b33d6feaad32e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-05 09:27:43</sys_updated_on>
+            <sys_updated_on>2025-08-06 10:25:38</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -94,13 +94,13 @@ Please implement any necessary changes to subgroups.</text>
             <element>.end_split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-05 09:27:43</sys_created_on>
-            <sys_id>ebcb2e6383cfa610671b33d6feaad39c</sys_id>
+            <sys_created_on>2025-08-06 10:25:38</sys_created_on>
+            <sys_id>29a2c048835b2a10671b33d6feaad32e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-05 09:27:43</sys_updated_on>
+            <sys_updated_on>2025-08-06 10:25:38</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -108,13 +108,13 @@ Please implement any necessary changes to subgroups.</text>
             <element>.begin_split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-05 09:27:43</sys_created_on>
-            <sys_id>63cb2e6383cfa610671b33d6feaad39d</sys_id>
+            <sys_created_on>2025-08-06 10:25:38</sys_created_on>
+            <sys_id>ada2c048835b2a10671b33d6feaad32e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-05 09:27:43</sys_updated_on>
+            <sys_updated_on>2025-08-06 10:25:38</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -122,13 +122,13 @@ Please implement any necessary changes to subgroups.</text>
             <element>u_boolean_12</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-05 09:27:43</sys_created_on>
-            <sys_id>e7cb2e6383cfa610671b33d6feaad39d</sys_id>
+            <sys_created_on>2025-08-06 10:25:38</sys_created_on>
+            <sys_id>25a2c048835b2a10671b33d6feaad32f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-05 09:27:43</sys_updated_on>
+            <sys_updated_on>2025-08-06 10:25:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -136,27 +136,27 @@ Please implement any necessary changes to subgroups.</text>
             <element>.split</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-05 09:27:43</sys_created_on>
-            <sys_id>6fcb2e6383cfa610671b33d6feaad39d</sys_id>
+            <sys_created_on>2025-08-06 10:25:38</sys_created_on>
+            <sys_id>a9a2c048835b2a10671b33d6feaad32f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-05 09:27:43</sys_updated_on>
+            <sys_updated_on>2025-08-06 10:25:38</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>57cb2e6383cfa610671b33d6feaad390</element>
+            <element>a1a2c048835b2a10671b33d6feaad322</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-05 09:27:43</sys_created_on>
-            <sys_id>e3cb2e6383cfa610671b33d6feaad39e</sys_id>
+            <sys_created_on>2025-08-06 10:25:38</sys_created_on>
+            <sys_id>21a2c048835b2a10671b33d6feaad330</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-05 09:27:43</sys_updated_on>
+            <sys_updated_on>2025-08-06 10:25:38</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -164,13 +164,13 @@ Please implement any necessary changes to subgroups.</text>
             <element>.end_split</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-05 09:27:43</sys_created_on>
-            <sys_id>6bcb2e6383cfa610671b33d6feaad39e</sys_id>
+            <sys_created_on>2025-08-06 10:25:38</sys_created_on>
+            <sys_id>a5a2c048835b2a10671b33d6feaad330</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-05 09:27:43</sys_updated_on>
+            <sys_updated_on>2025-08-06 10:25:38</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -178,13 +178,13 @@ Please implement any necessary changes to subgroups.</text>
             <element>.begin_split</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-05 09:27:43</sys_created_on>
-            <sys_id>efcb2e6383cfa610671b33d6feaad39e</sys_id>
+            <sys_created_on>2025-08-06 10:25:38</sys_created_on>
+            <sys_id>2da2c048835b2a10671b33d6feaad330</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-05 09:27:43</sys_updated_on>
+            <sys_updated_on>2025-08-06 10:25:38</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -192,13 +192,13 @@ Please implement any necessary changes to subgroups.</text>
             <element>u_reference_14</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-05 09:27:43</sys_created_on>
-            <sys_id>67cb2e6383cfa610671b33d6feaad39f</sys_id>
+            <sys_created_on>2025-08-06 10:25:38</sys_created_on>
+            <sys_id>a1a2c048835b2a10671b33d6feaad331</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-05 09:27:43</sys_updated_on>
+            <sys_updated_on>2025-08-06 10:25:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -206,13 +206,13 @@ Please implement any necessary changes to subgroups.</text>
             <element>u_reference_15</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-05 09:27:43</sys_created_on>
-            <sys_id>ebcb2e6383cfa610671b33d6feaad39f</sys_id>
+            <sys_created_on>2025-08-06 10:25:38</sys_created_on>
+            <sys_id>29a2c048835b2a10671b33d6feaad331</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-05 09:27:43</sys_updated_on>
+            <sys_updated_on>2025-08-06 10:25:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -220,27 +220,27 @@ Please implement any necessary changes to subgroups.</text>
             <element>.split</element>
             <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-05 09:27:43</sys_created_on>
-            <sys_id>63cb2e6383cfa610671b33d6feaad3a0</sys_id>
+            <sys_created_on>2025-08-06 10:25:38</sys_created_on>
+            <sys_id>ada2c048835b2a10671b33d6feaad331</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-05 09:27:43</sys_updated_on>
+            <sys_updated_on>2025-08-06 10:25:38</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>1bcb2e6383cfa610671b33d6feaad390</element>
+            <element>65a2c048835b2a10671b33d6feaad322</element>
             <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-05 09:27:43</sys_created_on>
-            <sys_id>e7cb2e6383cfa610671b33d6feaad3a0</sys_id>
+            <sys_created_on>2025-08-06 10:25:38</sys_created_on>
+            <sys_id>25a2c048835b2a10671b33d6feaad332</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-05 09:27:43</sys_updated_on>
+            <sys_updated_on>2025-08-06 10:25:38</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -248,13 +248,13 @@ Please implement any necessary changes to subgroups.</text>
             <element>.end_split</element>
             <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-05 09:27:43</sys_created_on>
-            <sys_id>6fcb2e6383cfa610671b33d6feaad3a0</sys_id>
+            <sys_created_on>2025-08-06 10:25:38</sys_created_on>
+            <sys_id>a9a2c048835b2a10671b33d6feaad332</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-05 09:27:43</sys_updated_on>
+            <sys_updated_on>2025-08-06 10:25:38</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -262,13 +262,13 @@ Please implement any necessary changes to subgroups.</text>
             <element>.begin_split</element>
             <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-05 09:27:43</sys_created_on>
-            <sys_id>e3cb2e6383cfa610671b33d6feaad3a1</sys_id>
+            <sys_created_on>2025-08-06 10:25:38</sys_created_on>
+            <sys_id>21a2c048835b2a10671b33d6feaad333</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-05 09:27:43</sys_updated_on>
+            <sys_updated_on>2025-08-06 10:25:38</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -276,13 +276,13 @@ Please implement any necessary changes to subgroups.</text>
             <element>u_boolean_16</element>
             <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-05 09:27:43</sys_created_on>
-            <sys_id>6bcb2e6383cfa610671b33d6feaad3a1</sys_id>
+            <sys_created_on>2025-08-06 10:25:38</sys_created_on>
+            <sys_id>a5a2c048835b2a10671b33d6feaad333</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-05 09:27:43</sys_updated_on>
+            <sys_updated_on>2025-08-06 10:25:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -290,27 +290,27 @@ Please implement any necessary changes to subgroups.</text>
             <element>.split</element>
             <position>17</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-05 09:27:43</sys_created_on>
-            <sys_id>efcb2e6383cfa610671b33d6feaad3a1</sys_id>
+            <sys_created_on>2025-08-06 10:25:38</sys_created_on>
+            <sys_id>2da2c048835b2a10671b33d6feaad333</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-05 09:27:43</sys_updated_on>
+            <sys_updated_on>2025-08-06 10:25:38</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>dbcb2e6383cfa610671b33d6feaad390</element>
+            <element>29a2c048835b2a10671b33d6feaad322</element>
             <position>18</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-08-05 09:27:43</sys_created_on>
-            <sys_id>67cb2e6383cfa610671b33d6feaad3a2</sys_id>
+            <sys_created_on>2025-08-06 10:25:38</sys_created_on>
+            <sys_id>a1a2c048835b2a10671b33d6feaad334</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Modification details" display_value="Modification details" name="x_1645406_distribu_distribution_list_request" sys_domain="global" view="Default view">cc1885c283072210671b33d6feaad36e</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-08-05 09:27:43</sys_updated_on>
+            <sys_updated_on>2025-08-06 10:25:38</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>

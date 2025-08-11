@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="DELETE">
+        <create_roles/>
+        <description>This is a variable list for creation of the distribution list.</description>
+        <display_title>false</display_title>
+        <internal_name>distribution_list_details</internal_name>
+        <layout>2across</layout>
+        <name/>
+        <order>100</order>
+        <read_roles/>
+        <set_attributes/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-08 12:09:51</sys_created_on>
+        <sys_id>ed7daaa4839fea10671b33d6feaad3a5</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>Distribution list details </sys_name>
+        <sys_package display_value="Distribution List" source="x_1645406_distribu">97ce3c4683c32210671b33d6feaad36f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Distribution List">97ce3c4683c32210671b33d6feaad36f</sys_scope>
+        <sys_update_name>item_option_new_set_ed7daaa4839fea10671b33d6feaad3a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-11 06:42:04</sys_updated_on>
+        <title>Distribution list details </title>
+        <type>one_to_many</type>
+        <version>10</version>
+        <write_roles/>
+    </item_option_new_set>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Distribution List">97ce3c4683c32210671b33d6feaad36f</application>
+        <file_path/>
+        <instance_id>4b57aae11b8242d078c7cb7b234bcb99</instance_id>
+        <instance_name>dev266350</instance_name>
+        <name>item_option_new_set_ed7daaa4839fea10671b33d6feaad3a5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set"><item_option_new_set action="INSERT_OR_UPDATE"><create_roles/><description>This is a variable list for creation of the distribution list.</description><display_title>false</display_title><internal_name>distribution_list_details</internal_name><layout>2across</layout><name/><order>100</order><read_roles/><set_attributes/><sys_class_name>item_option_new_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-08 12:09:51</sys_created_on><sys_id>ed7daaa4839fea10671b33d6feaad3a5</sys_id><sys_mod_count>10</sys_mod_count><sys_name>Distribution list details </sys_name><sys_package display_value="Distribution List" source="x_1645406_distribu">97ce3c4683c32210671b33d6feaad36f</sys_package><sys_policy/><sys_scope display_value="Distribution List">97ce3c4683c32210671b33d6feaad36f</sys_scope><sys_update_name>item_option_new_set_ed7daaa4839fea10671b33d6feaad3a5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-11 06:42:04</sys_updated_on><title>Distribution list details </title><type>one_to_many</type><version>10</version><write_roles/></item_option_new_set></record_update>]]></payload>
+        <payload_hash>-2123060139</payload_hash>
+        <record_name>Distribution list details </record_name>
+        <reverted_from/>
+        <source>0769dd0a83472210671b33d6feaad3b5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-11 06:42:04</sys_created_on>
+        <sys_id>6b6f382d83172250671b33d6feaad353</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19897dd5fbb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-11 06:42:04</sys_updated_on>
+        <type>Variable Set</type>
+        <update_guid>ef6f382d1d172250a3d073b268ec9152</update_guid>
+        <update_guid_history>ef6f382d1d172250a3d073b268ec9152:-2123060139,692db469b7172250dd006eb0dd84deeb:791338661,4b09fe6412dfea10ebda7c71ebc49230:-1753652676,cad8fae063dfea102c04905e66882b04:-1544954373,a6f27e6c939fea10155065467b1804db:-1336256070,77727e2cc49fea1003747c2c4c143b3f:-1127557767,bb7fe228299fea10bcc1d9946fa8a1b5:-918859464,5b0f6ee4ed9fea100efb32d0a53d3ed3:-710161161,555e2228bd9fea10e6e71e6eefadc0d1:-501462858,2f1e6aa4179fea10ca48d103f11c8369:-292764555,b3ad22a4ab9fea1074dcfe54115eb6d3:-323845160</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Distribution list details ">99832de583d72250671b33d6feaad3d4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-11 09:19:46</sys_created_on>
+        <sys_db_object display_value="" name="item_option_new_set">item_option_new_set</sys_db_object>
+        <sys_id>08ac68d5451141fb81c3bfc87708caf9</sys_id>
+        <sys_metadata>ed7daaa4839fea10671b33d6feaad3a5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Distribution list details </sys_name>
+        <sys_package display_value="Distribution List" source="x_1645406_distribu">97ce3c4683c32210671b33d6feaad36f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Distribution List">97ce3c4683c32210671b33d6feaad36f</sys_scope>
+        <sys_scope_delete display_value="">008b790ab778493580d9ac1fb71d5831</sys_scope_delete>
+        <sys_update_name>item_option_new_set_ed7daaa4839fea10671b33d6feaad3a5</sys_update_name>
+        <sys_update_version display_value="item_option_new_set_ed7daaa4839fea10671b33d6feaad3a5">6b6f382d83172250671b33d6feaad353</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-11 09:19:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

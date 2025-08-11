@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Distribution List Management ">0221aaa4835fea10671b33d6feaad3ff</sc_cat_item>
+        <sc_category display_value="Departmental Services">95fc11615f1211001c9b2572f2b477c6</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-08 11:25:53</sys_created_on>
+        <sys_id>2793ee68835fea10671b33d6feaad328</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Departmental Services.Distribution List Management </sys_name>
+        <sys_package display_value="Distribution List" source="x_1645406_distribu">97ce3c4683c32210671b33d6feaad36f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Distribution List">97ce3c4683c32210671b33d6feaad36f</sys_scope>
+        <sys_update_name>sc_cat_item_category_2793ee68835fea10671b33d6feaad328</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-08 11:25:53</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Distribution List">97ce3c4683c32210671b33d6feaad36f</application>
+        <file_path/>
+        <instance_id>4b57aae11b8242d078c7cb7b234bcb99</instance_id>
+        <instance_name>dev266350</instance_name>
+        <name>sc_cat_item_category_2793ee68835fea10671b33d6feaad328</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Distribution List Management ">0221aaa4835fea10671b33d6feaad3ff</sc_cat_item><sc_category display_value="Departmental Services">95fc11615f1211001c9b2572f2b477c6</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-08-08 11:25:53</sys_created_on><sys_id>2793ee68835fea10671b33d6feaad328</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Departmental Services.Distribution List Management </sys_name><sys_package display_value="Distribution List" source="x_1645406_distribu">97ce3c4683c32210671b33d6feaad36f</sys_package><sys_policy/><sys_scope display_value="Distribution List">97ce3c4683c32210671b33d6feaad36f</sys_scope><sys_update_name>sc_cat_item_category_2793ee68835fea10671b33d6feaad328</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-08-08 11:25:53</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>583016274</payload_hash>
+        <record_name>Departmental Services.Distribution List Management </record_name>
+        <reverted_from/>
+        <source>0769dd0a83472210671b33d6feaad3b5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-08 11:25:53</sys_created_on>
+        <sys_id>bf93ee68835fea10671b33d6feaad33d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>198896e23be0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-08 11:25:53</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>b393ee68755fea10db0960bf63774c3d</update_guid>
+        <update_guid_history>b393ee68755fea10db0960bf63774c3d:583016274</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Departmental Services.Distribution List Management ">ebc3e2a8835fea10671b33d6feaad3a6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-08 11:26:41</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>1c3cf5b7d7e541088366012f7c369344</sys_id>
+        <sys_metadata>2793ee68835fea10671b33d6feaad328</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Departmental Services.Distribution List Management </sys_name>
+        <sys_package display_value="Distribution List" source="x_1645406_distribu">97ce3c4683c32210671b33d6feaad36f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Distribution List">97ce3c4683c32210671b33d6feaad36f</sys_scope>
+        <sys_scope_delete display_value="">008b790ab778493580d9ac1fb71d5831</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_2793ee68835fea10671b33d6feaad328</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_2793ee68835fea10671b33d6feaad328">bf93ee68835fea10671b33d6feaad33d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-08 11:26:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

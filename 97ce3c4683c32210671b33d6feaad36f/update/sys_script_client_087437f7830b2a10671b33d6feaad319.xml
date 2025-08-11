@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>u_string_3</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Populating Display of Distribution list.</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+    //    if (isLoading || newValue === '') {
+    //       return;
+    //    }
+
+    if (isLoading) {
+        return;
+    }
+
+    //    //Type appropriate comment here, and begin script below
+    var nameValue = g_form.getValue('u_string_3');
+    alert(nameValue);
+
+    //     // Set the value of the "Display Name of distribution list" to the same value
+    //     g_form.setValue('u_display_name_of_distribution_list', nameValue);
+
+    g_form.setValue('u_string_7', nameValue);
+
+
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-08-06 09:31:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>087437f7830b2a10671b33d6feaad319</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>Populating Display of Distribution list.</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Distribution List" source="x_1645406_distribu">97ce3c4683c32210671b33d6feaad36f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Distribution List">97ce3c4683c32210671b33d6feaad36f</sys_scope>
+        <sys_update_name>sys_script_client_087437f7830b2a10671b33d6feaad319</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-08-06 10:44:28</sys_updated_on>
+        <table>x_1645406_distribu_distribution_list_request</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="4c1dcae7830fa610671b33d6feaad3a5" label="User CMD Data" max_length="40" name="x_1645406_distribu_user_cmd_data" type="collection">
+    <element db_object_id="4c1dcae7830fa610671b33d6feaad3a5" label="User CDM Data" max_length="40" name="x_1645406_distribu_user_cmd_data" type="collection">
         <element label="Manager MUID" max_length="40" name="manager_muid" type="string"/>
-        <element label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element label="Last Name" max_length="100" name="last_name" type="string"/>
         <element label="Phone" max_length="40" name="phone" type="integer"/>
         <element label="Location ID" max_length="40" name="location_id" type="string"/>
         <element label="Full Name" max_length="40" name="full_name" type="string"/>
@@ -9,7 +9,7 @@
         <element label="Department Number" max_length="40" name="department_number" type="integer"/>
         <element label="Department Long Name" max_length="40" name="department_long_name" type="string"/>
         <element label="CMG number dotted manager" max_length="40" name="cmg_number_dotted_manager" type="string"/>
-        <element label="Manager Full Name" max_length="40" name="manager_full_name" type="string"/>
+        <element label="Manager Full Name" max_length="100" name="manager_full_name" type="string"/>
         <element label="Fixed Value" max_length="40" name="fixed_value" type="string"/>
         <element label="UserID" max_length="40" name="userid" type="string"/>
         <element label="Joining Date" max_length="40" name="joining_date" type="glide_date"/>
@@ -20,20 +20,20 @@
         <element label="Department Short Name" max_length="40" name="department_short_name" type="string"/>
         <element label="CMG Country Name" max_length="40" name="cmg_country_name" type="string"/>
         <element label="Official Name" max_length="40" name="official_name" type="string"/>
-        <element label="First Name" max_length="40" name="first_name" type="string"/>
-        <element label="CMG AD User principal name" max_length="40" name="cmg_ad_user_principal_name" type="string"/>
+        <element label="First Name" max_length="60" name="first_name" type="string"/>
+        <element label="CMG AD User principal name" max_length="100" name="cmg_ad_user_principal_name" type="string"/>
         <element label="Preferred Language" max_length="40" name="preferred_language" type="string"/>
-        <element label="Mail" max_length="40" name="mail" type="string"/>
+        <element label="Mail" max_length="100" name="mail" type="string"/>
         <element label="CMG Country Code" max_length="40" name="cmg_country_code" type="integer"/>
         <element label="MUID Contact" max_length="40" name="muid_contact" type="integer"/>
         <element label="CMG Cost Center" max_length="40" name="cmg_cost_center" type="string"/>
         <element label="CMG number" max_length="40" name="cmg_number" type="string"/>
-        <element label="Legal Entity Name" max_length="40" name="legal_entity_name" type="string"/>
-        <element label="Contact Full Name" max_length="40" name="contact_full_name" type="string"/>
+        <element label="Legal Entity Name" max_length="100" name="legal_entity_name" type="string"/>
+        <element label="Contact Full Name" max_length="100" name="contact_full_name" type="string"/>
         <element label="Postal Code" max_length="40" name="postal_code" type="string"/>
         <element label="Employee Number" max_length="40" name="employee_number" type="string"/>
         <element label="Leaving Date" max_length="40" name="leaving_date" type="glide_date"/>
         <element label="Employee Type" max_length="40" name="employee_type" type="string"/>
-        <element label="CMG number manager" max_length="40" name="cmg_number_manager" type="string"/>
+        <element label="CMG number manager" max_length="100" name="cmg_number_manager" type="string"/>
     </element>
 </database>
